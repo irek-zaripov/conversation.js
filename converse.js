@@ -405,7 +405,7 @@
             'xa': __('This contact is away for an extended period'),
             'away': __('This contact is away')
         };
-        var DESC_GROUP_TOGGLE = __('Click to hide these contacts');
+        var DESC_GROUP_TOGGLE = __('Click to hide or open these contacts');
 
         var HEADER_CURRENT_CONTACTS =  __('My contacts');
         var HEADER_PENDING_CONTACTS = __('Pending contacts');
@@ -983,7 +983,7 @@
                     'height': converse.applyDragResistance(height, this.get('default_height')),
                     'width': converse.applyDragResistance(width, this.get('default_width')),
                     'num_unread': this.get('num_unread') || 0
-                };
+                	};
                 if (this.get('box_id') !== 'controlbox') {
                     this.messages = new converse.Messages();
                     this.messages.browserStorage = new Backbone.BrowserStorage[converse.storage](
