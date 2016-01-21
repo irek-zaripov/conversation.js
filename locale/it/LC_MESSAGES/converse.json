@@ -51,10 +51,6 @@
             null,
             "Questo contatto è away"
          ],
-         "Click to hide these contacts": [
-            null,
-            "Clicca per nascondere questi contatti"
-         ],
          "My contacts": [
             null,
             "I miei contatti"
@@ -765,7 +761,7 @@
          ],
          "Fetch registration form": [
             null,
-            "Recupero il modulo di registrazione"
+            "Modulo di registrazione"
          ],
          "Tip: A list of public XMPP providers is available": [
             null,

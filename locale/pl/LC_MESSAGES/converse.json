@@ -51,10 +51,6 @@
             null,
             "Kontakt jest nieobecny"
          ],
-         "Click to hide these contacts": [
-            null,
-            "Kliknij aby schować te kontakty"
-         ],
          "My contacts": [
             null,
             "Moje kontakty"
@@ -798,10 +794,6 @@
          "Return": [
             null,
             "Powrót"
-         ],
-         "The provider rejected your registration attempt. Please check the values you entered for correctness.": [
-            null,
-            "Dostawca odrzucił twoją próbę rejestracji. Sprawdź proszę poprawność danych które zostały wprowadzone."
          ],
          "XMPP Username:": [
             null,

@@ -51,10 +51,6 @@
             null,
             "Dieser Kontakt ist abwesend"
          ],
-         "Click to hide these contacts": [
-            null,
-            "Hier klicken um diese Kontakte zu verstecken"
-         ],
          "My contacts": [
             null,
             "Meine Kontakte"
@@ -791,7 +787,7 @@
             null,
             "Zurück"
          ],
-         "The provider rejected your registration attempt. Please check the values you entered for correctness.": [
+         "The provider rejected your registration attempt. ": [
             null,
             ""
          ],

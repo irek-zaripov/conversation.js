@@ -51,10 +51,6 @@
             null,
             ""
          ],
-         "Click to hide these contacts": [
-            null,
-            ""
-         ],
          "My contacts": [
             null,
             ""
@@ -807,7 +803,7 @@
             null,
             ""
          ],
-         "The provider rejected your registration attempt. Please check the values you entered for correctness.": [
+         "The provider rejected your registration attempt. ": [
             null,
             ""
          ],
@@ -826,6 +822,10 @@
          "Log In": [
             null,
             "Log In"
+         ],
+         "Username": [
+            null,
+            ""
          ],
          "user@server": [
             null,
