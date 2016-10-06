@@ -73,7 +73,7 @@ A live demo is available at `<https://conversejs.org>`_
 Tests
 -----
 
-We use behavior-driven tests written with `jasmine.js <http://pivotal.github.io/jasmine>`_.
+We use behavior-driven tests written with `jasmine.js <https://jasmine.github.io/>`_.
 
 Open `tests.html <https://github.com/jcbrand/converse.js/blob/master/tests.html>`_
 in your browser, and the tests will run automatically.
